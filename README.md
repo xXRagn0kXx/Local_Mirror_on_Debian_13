@@ -10,7 +10,7 @@ Esta solución garantiza una actualizacion controlada y evita trafico de la red 
 
 ## :book: Contenido
 
-* :cop: [Licencia](./LICENSE)
+* :cop: [Terminos de uso](./LICENSE)
 * :atom: [Características](#atom-características)
 * :white_check_mark: [Requisitos](#white_check_mark-requisitos)
 * :gear: [1 Instalar el software necesario](#gear-1-instalar-el-software-necesario)
